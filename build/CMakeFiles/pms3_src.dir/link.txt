@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpms3_src.a CMakeFiles/pms3_src.dir/src/MAPLE.cpp.o CMakeFiles/pms3_src.dir/src/blockMAPLE.cpp.o CMakeFiles/pms3_src.dir/src/clientMAPLE.cpp.o CMakeFiles/pms3_src.dir/src/serverMAPLE.cpp.o CMakeFiles/pms3_src.dir/src/Utils.cpp.o CMakeFiles/pms3_src.dir/src/Log.cpp.o
+/usr/bin/ranlib libpms3_src.a
